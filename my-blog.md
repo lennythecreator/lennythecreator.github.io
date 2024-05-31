@@ -1,4 +1,4 @@
 ## Table of Contents
 
-- [Week 1](./week1.md).
-- [Week 2](./week2.md).
+- [Week1](./week1.md).
+- [Week2](./week2.md).
