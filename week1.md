@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-author: Lenny Uwaeme
+author: Michael Adeleke
 ---
 
 During the first week, I met with Dr. Crawford and my mentors to discuss the project 
