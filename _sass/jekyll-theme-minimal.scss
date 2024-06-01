@@ -38,11 +38,13 @@ h3, h4, h5, h6 {
 a {
   color:#267CB9;
   text-decoration:none;
+   transition: color 0.3s ease;
 }
 
 a:hover, a:focus {
   color:#069;
   font-weight: bold;
+ 
 }
 
 a small {
