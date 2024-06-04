@@ -3,7 +3,14 @@
 
 @import "jekyll-theme-minimal";
 
-h1 {
+h2 {
   font-size: 32px;
-  margin: 4px;
+  padding: 4px;
+  font-weight:bold;
+  
+}
+
+body{
+  height:100vh;
+  
 }
