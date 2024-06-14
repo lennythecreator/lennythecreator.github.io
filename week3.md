@@ -1,4 +1,9 @@
 # Week 3
+---
+layout: post
+title: Week 3
+author: Lenny Uwaeme
+---
 This week was mostly about getting the infrastructure ready to facilitate the model. I used HTML, CSS, and Javascript to create the front end. The reason for this is that my graduate mentor suggested that we go with the simple approach that everyone can work on.
 It was a pretty slow week, most of my work was already done the first day of the week so it was just mostly reading papers and helping out my teammates with their work.
 
