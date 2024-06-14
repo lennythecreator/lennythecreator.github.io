@@ -1,4 +1,3 @@
-# Week 3
 ---
 layout: post
 title: Week 3
