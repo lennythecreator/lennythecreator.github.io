@@ -2,7 +2,9 @@
 ---
 
 @import "jekyll-theme-minimal";
-
+html{
+  overflow:auto;
+}
 h2 {
   font-size: 32px;
   padding: 4px;
