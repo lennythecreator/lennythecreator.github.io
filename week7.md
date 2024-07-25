@@ -4,10 +4,7 @@ title: Week 7
 author: Lenny Uwaeme
 ---
 
-This week I assisted in the data annotation of the sampled dataset of sentences gotten from the trascript. This involved using the 
-Go-Emotion model to assign emotions to the different sentences in the dataset. I also discussed with my teammate about how we can implement 
-RAG into our application. This is going to be alot more intersting because the Rag Implementation would make our chat bot stand out from 
-others.
+This week I assisted in the data annotation of the sampled dataset of sentences gotten from the trascript. This involved using the Go-Emotion model to assign emotions to the different sentences in the dataset. I also discussed with my teammate about how we can implement RAG into our application. This is going to be alot more intersting because the Rag Implementation would make our chat bot stand out from others.
 
 ### What I accomplished this week:
 
