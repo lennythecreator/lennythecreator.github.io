@@ -9,7 +9,7 @@ Go-Emotion model to assign emotions to the different sentences in the dataset. I
 RAG into our application. This is going to be alot more intersting because the Rag Implementation would make our chat bot stand out from 
 others.
 
-# What I accomplished this week:
+### What I accomplished this week:
 
 
 - Discussed with my teammate the potential implementation of Retrieval-Augmented Generation (RAG) in our application.
