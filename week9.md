@@ -1,3 +1,8 @@
+---
+layout: post
+title: Week 8
+author: Lenny Uwaeme
+---
 # This Week in My Research Internship
 
 ## Prepared for Final Presentations
