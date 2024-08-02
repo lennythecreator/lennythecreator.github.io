@@ -6,7 +6,7 @@ EmotiGen is an innovative AI chat application designed to understand and engage 
 
 
 
-## Features
+# Features
 
 - **AAVE Understanding**
 - **Emotional Intelligence**: The model powering Emoti-Gen can detect and appropriately respond to a range of emotions, providing empathetic and contextually relevant replies.
@@ -15,7 +15,7 @@ EmotiGen is an innovative AI chat application designed to understand and engage 
 
 
 
-## Tech Stack
+# Tech Stack
 
 - **Frontend**: HTML, CSS, Javascript,
 - **Backend**:   Python, Flask
