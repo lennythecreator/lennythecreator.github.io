@@ -1,3 +1,8 @@
+---
+layout: post
+title: Week 10
+author: Lenny Uwaeme
+---
 # Wrapping Up the CEAMLS Summer Program: A Journey of Learning and Discovery
 
 As the CEAMLS Summer Program came to a close, I found myself reflecting on the incredible journey it has been. It was a summer filled with learning, collaboration, and exploration, culminating in our presentation at the symposium. This experience not only deepened my understanding of research but also allowed me to connect with like-minded peers who are equally passionate about their work.
